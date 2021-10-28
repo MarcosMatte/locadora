@@ -1,0 +1,24 @@
+{
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "Projeto de Estudo de uma video locadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosMatte/locadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosMatte/locadora/issues"
+  },
+  "homepage": "https://github.com/MarcosMatte/locadora#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
